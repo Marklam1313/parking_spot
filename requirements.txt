@@ -1,0 +1,6 @@
+opencv-python==4.1.2.30
+scikit-learn
+pandas
+Pillow
+scikit-image
+matplotlib
